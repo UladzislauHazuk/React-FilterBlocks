@@ -1,0 +1,14 @@
+.wrapper {
+    width: 100%;
+    height: 170px;
+    border: 1px solid #EAEBED;
+    border-radius: 12px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between; 
+    padding: 30px;
+
+    .pagination {
+        margin: 50px auto;
+    }
+}
